@@ -2,11 +2,11 @@
 
 This repository contains the open-source uptime monitor and status page for [dkopljar27](https://dkopljar27.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/dkopljar27/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/dkopljar27/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/dkopljar27/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/dkopljar27/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/dkopljar27/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/dkopljar27/gate_uppy/workflows/Uptime%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Response Time CI](https://github.com/dkopljar27/gate_uppy/workflows/Response%20Time%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
+[![Graphs CI](https://github.com/dkopljar27/gate_uppy/workflows/Graphs%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Graphs+CI%22)
+[![Static Site CI](https://github.com/dkopljar27/gate_uppy/workflows/Static%20Site%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
+[![Summary CI](https://github.com/dkopljar27/gate_uppy/workflows/Summary%20CI/badge.svg)](https://github.com/dkopljar27/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/dkopljar27/upptime/issues) as incident reports, [Actions](https://github.com/dkopljar27/upptime/actions) as uptime monitors, and [Pages](https://dkopljar27.github.io/upptime) for the status page.
 
