@@ -1,22 +1,22 @@
 [
   {
     "name": "Rampa_Blato",
-    "url": "http://http://rampa.ddns.net:8001/",
-    "icon": "https://favicons.githubusercontent.com/http",
+    "url": "http://rampa.ddns.net:8001/",
+    "icon": "https://favicons.githubusercontent.com/rampa.ddns.net",
     "slug": "rampa-blato",
-    "status": "down",
-    "uptime": "10.15%",
-    "uptimeDay": "10.15%",
-    "uptimeWeek": "10.15%",
-    "uptimeMonth": "10.15%",
-    "uptimeYear": "10.15%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.64%",
+    "uptimeDay": "1.64%",
+    "uptimeWeek": "1.64%",
+    "uptimeMonth": "1.64%",
+    "uptimeYear": "1.64%",
+    "time": 1606,
+    "timeDay": 1606,
+    "timeWeek": 1606,
+    "timeMonth": 1606,
+    "timeYear": 1606,
     "dailyMinutesDown": {
-      "2021-09-26": 0
+      "2021-09-26": 3
     }
   }
 ]
