@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/rampa.ddns.net",
     "slug": "rampa-blato",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.77%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.67%",
-    "time": 1968,
-    "timeDay": 3888,
-    "timeWeek": 2127,
-    "timeMonth": 2041,
-    "timeYear": 1968,
+    "uptimeYear": "99.68%",
+    "time": 1958,
+    "timeDay": 1407,
+    "timeWeek": 2129,
+    "timeMonth": 2032,
+    "timeYear": 1958,
     "dailyMinutesDown": {
       "2021-11-11": 224
     }
