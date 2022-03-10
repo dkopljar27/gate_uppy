@@ -4,7 +4,7 @@
     "url": "http://rampa.ddns.net:8001/",
     "icon": "https://favicons.githubusercontent.com/rampa.ddns.net",
     "slug": "rampa-blato",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.72%",
@@ -16,6 +16,7 @@
     "timeMonth": 1472,
     "timeYear": 1692,
     "dailyMinutesDown": {
+      "2022-03-10": 0,
       "2022-03-08": 229,
       "2022-01-21": 20,
       "2021-12-19": 21,
