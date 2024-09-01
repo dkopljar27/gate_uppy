@@ -4,7 +4,7 @@
     "url": "http://rampa.ddns.net:8001/",
     "icon": "https://icons.duckduckgo.com/ip3/rampa.ddns.net.ico",
     "slug": "rampa-blato",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1294,
     "timeYear": 1440,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2024-07-05": 23,
       "2024-05-24": 29,
       "2024-05-22": 17,
