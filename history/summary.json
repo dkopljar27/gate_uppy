@@ -4,18 +4,19 @@
     "url": "http://rampa.ddns.net:8001/",
     "icon": "https://icons.duckduckgo.com/ip3/rampa.ddns.net.ico",
     "slug": "rampa-blato",
-    "status": "up",
+    "status": "down",
     "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "91.36%",
-    "time": 1577,
+    "uptimeYear": "91.37%",
+    "time": 1578,
     "timeDay": 617,
     "timeWeek": 585,
     "timeMonth": 594,
     "timeYear": 1650,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-07-22": 86,
       "2025-06-16": 79,
       "2025-05-08": 70,
@@ -81,7 +82,7 @@
       "2024-12-21": 947,
       "2024-12-20": 1047,
       "2024-12-16": 20,
-      "2024-12-15": 106
+      "2024-12-15": 46
     }
   }
 ]
