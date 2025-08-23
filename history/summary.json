@@ -6,17 +6,16 @@
     "slug": "rampa-blato",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "91.36%",
     "time": 1574,
-    "timeDay": 665,
-    "timeWeek": 610,
-    "timeMonth": 588,
-    "timeYear": 1643,
+    "timeDay": 788,
+    "timeWeek": 625,
+    "timeMonth": 580,
+    "timeYear": 1642,
     "dailyMinutesDown": {
-      "2025-08-22": 12,
       "2025-08-16": 75,
       "2025-07-22": 86,
       "2025-06-16": 79,
@@ -83,7 +82,7 @@
       "2024-12-21": 947,
       "2024-12-20": 1047,
       "2024-12-16": 20,
-      "2024-12-15": 23
+      "2024-12-15": 46
     }
   }
 ]
